@@ -1,0 +1,12 @@
+﻿  PathSearch.cpp
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(19,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(21,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(38,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(40,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(232,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(267,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(275,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(276,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(284,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(286,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PathSearch.vcxproj -> C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\B - Path Planner\Project\Debug\PathSearch.dll
